@@ -33,10 +33,6 @@ O sistema conta com um módulo independente de análise que se conecta via queri
 *   **Análise de Tendência:** Plotagem de gráfico de linhas com marcadores dinâmicos comparando a evolução do Dólar vs. Euro.
 *   **Apoio à Decisão:** Interface limpa com grades estatísticas, legendas automáticas e dimensionamento responsivo (`tight_layout`).
 
----
 
-## 🛠️ Como Executar o Projeto
 
-1. **Instale as dependências necessárias:**
-```bash
-   pip install pandas requests matplotlib
+
